@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'corsheaders',
+    "drf_yasg", 
     'anymail',
     'rest_framework',
     'rest_framework.authtoken',
